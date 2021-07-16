@@ -24,3 +24,9 @@ p {
 .half .contents, .half .bg {
     width: 50%;
 }
+
+@media (max-width: 1199.98px) {
+    .half .contents, .half .bg {
+        width: 100%;
+    }
+}
